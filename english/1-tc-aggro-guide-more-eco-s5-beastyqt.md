@@ -6,10 +6,8 @@ Note: `< 00:21` means before 00:21 (but no earlier than previous step). `~` mean
 
 | Time | Food | Wood | Gold | Builders | Action | Note |
 | ---  | ---  | --- | --- | --- | --- | --- |
-| 00:00 | 0 | 0 | 0 | 0 | Queue up villagers ||
 | 00:01 | 6 | 0 | 0 | 0 | All on sheep ||
-| 00:02 | 6 | 0 | 0 | 0 | Move 2 from sheep to farm ||
-| 00:03 | 6 | 0 | 0 | 0 | Scout: Find close sheep towards middle ||
+| 00:03 | 6 | 0 | 0 | 0 | Move 2 from sheep to farm ||
 | <00:21 | 6 | 0 | 0 | 0 | Rally on sheep ||
 | <00:41 | 7 | 0 | 0 | 0 | Rally on gold ||
 | 00:41 | 7 | 0 | 0 | 0 | Build House and Mining Camp at gold | The house shouldn't usually be on the side from the perspective of where the opponent is coming from, due to that being an ideal place for a potential tower |
@@ -17,10 +15,9 @@ Note: `< 00:21` means before 00:21 (but no earlier than previous step). `~` mean
 | 01:21 | 7 | 0 | 3 | 0 | Use the time between 01:01 and 1:41 to focus on scouting ||
 | <01:41 | 7 | 0 | 3 | 0 | Rally on TC wood ||
 | ~02:26 | 4 | 3 | 3 | 3 | Build Council with 3 from food as soon as you can | Placement should be towards the enemy for safer farms (400F/200G) |
-| <02:41 | 4 | 3 | 3 | 3 | Rally on food ||
-| 02:41 | 4 | 3 | 3 | 4 | Build mill with 1 from food ||
-| <03:01 | 4 | 3 | 3 | 4 | Rally on closest TC wood-line ||
+| 02:41 | 4 | 3 | 3 | 4 | Build mill with 1 from wood ||
 | ~03:15 | 5 | 3 | 3 | 4 | Build Lumber-camp with one from TC wood ||
+| <03:21 | 5 | 3 | 3 | 3 | Rally on closest TC wood-line||
 | ~03:42 | 5 | 6 | 3 | 3 | Wheelbarrow when you have 150 gold ||
 | 04:01 | 5 | 6 | 3 | 4 | Build 1 house with the new villager ||
 | ~04:29 | 8 | 8 | 3 | 0 | Age up, move the builders from Council to sheep | Gradually add farms depending on sheep count (37w per farm). We never want to run out of sheep and move everything to farm all at once, since that's a big window without any food |
