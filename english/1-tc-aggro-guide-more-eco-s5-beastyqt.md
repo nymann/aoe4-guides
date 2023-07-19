@@ -15,9 +15,10 @@ Note: `< 00:21` means before 00:21 (but no earlier than previous step). `~` mean
 | 01:21 | 7 | 0 | 3 | 0 | Use the time between 01:01 and 1:41 to focus on scouting ||
 | <01:41 | 7 | 0 | 3 | 0 | Rally on TC wood ||
 | ~02:26 | 4 | 3 | 3 | 3 | Build Council with 3 from food as soon as you can | Placement should be towards the enemy for safer farms (400F/200G) |
-| 02:41 | 4 | 3 | 3 | 4 | Build mill with 1 from wood ||
+| <02:41 | 4 | 3 | 3 | 3 | Rally on food ||
+| 02:41 | 4 | 3 | 3 | 4 | Build mill with 1 from food ||
+| <03:01 | 4 | 3 | 3 | 4 | Rally on closest TC wood-line ||
 | ~03:15 | 5 | 3 | 3 | 4 | Build Lumber-camp with one from TC wood ||
-| <03:21 | 5 | 3 | 3 | 3 | Rally on closest TC wood-line||
 | ~03:42 | 5 | 6 | 3 | 3 | Wheelbarrow when you have 150 gold ||
 | 04:01 | 5 | 6 | 3 | 4 | Build 1 house with the new villager ||
 | ~04:29 | 8 | 8 | 3 | 0 | Age up, move the builders from Council to sheep | Gradually add farms depending on sheep count (37w per farm). We never want to run out of sheep and move everything to farm all at once, since that's a big window without any food |
@@ -26,6 +27,7 @@ Note: `< 00:21` means before 00:21 (but no earlier than previous step). `~` mean
 | ~04:58 | 8 | 8 | 3 | 1 | Build Barracks with one from wood | This will probably be a bit delayed in a real game, since you probably won't find this many sheep and as a result have to make some farms |
 | ~05:21 | 8 | 10 | 3 | 1 | Queue up a house with the vil building barracks ||
 | ~05:41 | 8 | 12 | 3 | 0 | Get Horticulture when available (50w/100g) ||
+| ~05:45 | 8 | 12 | 3 | 0 | Start producing again ||
 | ~06:21 | 9 | 13 | 3 | 0 | Move one from wood to farm ||
 | ~06:40 | 9 | 12 | 3 | 1 | Build blacksmith with 1 from wood, then house. ||
 | ~06:45 | 9 | 11 | 3 | 2 | Replenish Lumber Camp as necessary ||
